@@ -1,3 +1,9 @@
+# Movie Track
+
+Movie track is a web application where you can favorite your movies, add, remove and wishlist it. It uses omdb API to fetch data of the movie searched. Technical skills used are CSS, React & React-redux.
+
+![Movie-app1](https://user-images.githubusercontent.com/54908639/187087070-0e96732b-1c54-4189-9288-0c211b8a86c0.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
